@@ -1,6 +1,6 @@
 {
   "name": "clean-code-checklist",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple web app providing an interactive checklist to help developers adhere to clean code principles.",
   "main": "index.js",
   "scripts": {
