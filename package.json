@@ -1,0 +1,24 @@
+{
+  "name": "clean-code-checklist",
+  "version": "1.0.0",
+  "description": "A simple web app providing an interactive checklist to help developers adhere to clean code principles.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "webpack --mode production"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "webpack": "^5.64.0",
+    "webpack-cli": "^4.9.1"
+  },
+  "devDependencies": {
+    "babel-loader": "^8.2.3",
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.0",
+    "@babel/preset-react": "^7.16.0"
+  },
+  "license": "MIT"
+}
