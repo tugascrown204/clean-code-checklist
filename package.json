@@ -20,5 +20,9 @@
     "@babel/preset-env": "^7.16.0",
     "@babel/preset-react": "^7.16.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/user/clean-code-checklist.git"
+  }
 }
