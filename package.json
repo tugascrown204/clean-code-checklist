@@ -9,8 +9,8 @@
   },
   "dependencies": {
     "express": "^4.18.2",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "react": "^18.2.0",  // Updated to latest version
+    "react-dom": "^18.2.0",  // Updated to latest version
     "webpack": "^5.77.0",
     "webpack-cli": "^4.9.2"
   },
